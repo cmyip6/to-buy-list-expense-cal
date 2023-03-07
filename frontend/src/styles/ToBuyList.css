@@ -1,0 +1,10 @@
+#to-buy-list {
+    overflow: auto;
+    overflow-x: hidden;
+    max-height: calc(20em + 350px)
+}
+
+.buttons {
+    padding-left: 8px;
+    padding-right: 8px;
+}

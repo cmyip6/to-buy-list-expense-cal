@@ -1,0 +1,7 @@
+#bottom-box-container {
+    padding-right: 10px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left:0px
+}
